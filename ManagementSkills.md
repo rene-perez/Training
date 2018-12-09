@@ -37,7 +37,7 @@
 
 ## Management vs Leadership
 ### Management
-> The efficient and appropriate use of the resources at your disposal to achieve a goal.
+The efficient and appropriate use of the resources at your disposal to achieve a goal.
 
 - Organizing
 - Deciding uppon tasks
@@ -49,8 +49,8 @@
 
 > Personal note: Technical abilities which if I perform them well, I can gain credibility in terms of execution.
 
-## Leadership
-> Influencing others to follow your lead by creating a compelling vision of the future.
+### Leadership
+Influencing others to follow your lead by creating a compelling vision of the future.
 - Setting goals
 - Vision
 - Influencing
@@ -59,3 +59,12 @@
 - People
 
 > Persona notes: Aren't people skills not scalable? Do I still to develop this? Honestly, I think that he was referring to people skills to perform a task, however I think leadership skills are still important unless we get to the point that we don't work with people at all. 
+
+### Discussion with Gus
+Questions:
+- What is it required in order to be a good leader?
+- What makes a good leader credible?
+
+Thoughts:
+
+- Basically we said that a leader doesn't have to be better than anyone in the team, but it needs to be competent so people can trust his/her vision and be influenced by. For example, a CEO of the company, you expect him to be good at the business he is running, or a technical lead, at least he should be a competent technical person.
